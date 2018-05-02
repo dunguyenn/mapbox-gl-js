@@ -3116,7 +3116,9 @@
           "ios": "2.0.0",
           "macos": "0.1.0"
         },
-        "data-driven styling": {}
+        "data-driven styling": {
+          "js": "next"
+        }
       }
     }
   },
@@ -3526,7 +3528,9 @@
           "ios": "2.0.0",
           "macos": "0.1.0"
         },
-        "data-driven styling": {}
+        "data-driven styling": {
+          "js": "next"
+        }
       }
     },
     "line-gradient": {
